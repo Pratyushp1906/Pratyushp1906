@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Kheti-Sahyog](https://github.com/Pratyushp1906/kheti-sahyog)
 
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link](https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link)
+
 - 📫 How to reach me **pratyushp1906@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link](https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link)
