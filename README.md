@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Kheti-Sahyog](https://github.com/Pratyushp1906/kheti-sahyog)
+- 🔭 I’m currently working on Web-Development projects
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link](https://drive.google.com/file/d/1ktIDRtG-rgZ8EnrgHY8NER7eWw4oetkh/view?usp=share_link)
 
